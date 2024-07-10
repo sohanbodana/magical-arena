@@ -18,3 +18,4 @@ This project simulates a fight between two players in a magical arena. Players a
 - `src/Index.js`: Entry point for the application.
 - `test/Player.test.js`: Unit tests for the Player class.
 - `test/Arena.test.js`: Unit tests for the Arena class.
+# magical-arena
